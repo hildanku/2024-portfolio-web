@@ -1,0 +1,25 @@
+      a {
+        text-decoration: none;
+      }
+      main > .container {
+        padding: 35px 15px 0;
+      }
+      main > .container > ul {
+        padding-left: 250px; padding-right: 250px; list-style-type: none;
+      }
+
+    .cabin {
+      font-family: "Cabin", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+      font-variation-settings:
+        "wdth" 100;
+    }
+/*    footer {
+    position: absolute;
+    bottom: 0;
+    height: auto;
+    background: #f0f0f0;
+    width: 100%;
+    }*/
